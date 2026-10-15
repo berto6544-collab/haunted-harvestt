@@ -649,7 +649,7 @@
               "sprite": "sprite_1_mv5zki34",
               "spriteMode": "shape",
               "spriteScale": 0.4,
-              "spriteSpin": 0.5
+              "spriteSpin": 0
             },
             "freeSpinToBase": {
               "enabled": false,
@@ -9281,8 +9281,8 @@
       "layer": "Default",
       "prefabId": null,
       "transform": {
-        "x": -43.48492782956794,
-        "y": 7.1320753115908815,
+        "x": -22.088701894795292,
+        "y": 0,
         "rotation": 0,
         "scaleX": 1,
         "scaleY": 1
