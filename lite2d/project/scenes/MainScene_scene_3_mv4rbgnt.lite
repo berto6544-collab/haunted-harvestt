@@ -2566,7 +2566,7 @@
               "layer": "Default",
               "prefabId": null,
               "transform": {
-                "x": -2.049281282726352,
+                "x": -1.3599543155613587,
                 "y": 0,
                 "rotation": 0,
                 "scaleX": 1,
@@ -2979,7 +2979,7 @@
                     }
                   ],
                   "fontId": "spritefont_1_mv0jd9iy",
-                  "charHeight": 0.5,
+                  "charHeight": 1.15,
                   "letterSpacing": 0,
                   "spaceWidth": 0.3,
                   "align": "center",
