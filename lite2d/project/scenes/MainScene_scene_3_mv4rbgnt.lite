@@ -9743,64 +9743,6 @@
         "animator"
       ],
       "children": []
-    },
-    {
-      "id": "go_824_mv90515p",
-      "name": "GameObject",
-      "kind": "empty",
-      "active": true,
-      "tag": "",
-      "layer": "Default",
-      "prefabId": null,
-      "transform": {
-        "x": 775.8669835590886,
-        "y": 70.37603310630689,
-        "rotation": 0,
-        "scaleX": 172.5686653916706,
-        "scaleY": 184.1593918855963
-      },
-      "components": {
-        "spriteRenderer": {
-          "spriteId": "slice_100_mv4rbg9z",
-          "flipX": false,
-          "flipY": true,
-          "opacity": 1,
-          "sortingLayer": "Default",
-          "orderInLayer": 0,
-          "pixelsPerUnit": 100,
-          "usePixelsPerUnitFromSprite": true,
-          "swaps": [],
-          "swapIndex": -1,
-          "color": "#ffffff",
-          "shapeType": null,
-          "shapeWidth": 1,
-          "shapeHeight": 1,
-          "fillColor": "#5eb1ff",
-          "borderColor": "#1b1c22",
-          "borderWidth": 0,
-          "borderRadius": 0,
-          "gradientEnabled": false,
-          "gradientColor": "#1b1c22",
-          "gradientAngle": 90,
-          "shadowEnabled": false,
-          "shadowColor": "rgba(0,0,0,0.5)",
-          "shadowBlur": 0.08,
-          "shadowOffsetX": 0.04,
-          "shadowOffsetY": 0.04,
-          "tileWhenStretched": false,
-          "fillScreen": false,
-          "fillScreenSet": false,
-          "fitWidth": 0,
-          "fitHeight": 0,
-          "fitMode": "stretch",
-          "enabled": true
-        }
-      },
-      "scripts": [],
-      "componentOrder": [
-        "spriteRenderer"
-      ],
-      "children": []
     }
   ],
   "screenLayouts": [
