@@ -9938,11 +9938,7 @@
           "x": 3.9175041570901126,
           "y": -3.725569494451684,
           "scaleX": 0.014573122265139241,
-          "scaleY": 0.013011042493447608,
-          "active": true,
-          "sprite.spriteId": "slice_14_mv4rbg9w",
-          "sprite.orderInLayer": 12,
-          "sprite.flipY": true
+          "scaleY": 0.013011042493447608
         },
         "go_132_mv4p076z": {
           "x": -1.8348526130120337,
@@ -10193,19 +10189,15 @@
           "y": -14.650990173962317,
           "scaleX": 0.04050761476675339,
           "scaleY": 0.04050761476675339,
-          "sprite.spriteId": "slice_15_mv4rbg9w",
-          "sprite.orderInLayer": 9,
-          "sprite.flipY": true
+          "active": false,
+          "sprite.orderInLayer": 9
         },
         "go_130_mv4p076z": {
           "x": 5.681865699774963,
           "y": -14.974366533275548,
           "scaleX": 0.04268716988400823,
           "scaleY": 0.04268716988400823,
-          "active": true,
-          "sprite.spriteId": "slice_14_mv4rbg9w",
-          "sprite.orderInLayer": 11,
-          "sprite.flipY": true
+          "sprite.orderInLayer": 11
         },
         "go_132_mv4p076z": {
           "x": -1.4858797317108614,
@@ -11414,10 +11406,7 @@
           "y": -14.015092624963849,
           "scaleX": 0.03750938299930581,
           "scaleY": 0.03750938299930581,
-          "active": true,
-          "sprite.spriteId": "slice_14_mv4rbg9w",
-          "sprite.orderInLayer": 10,
-          "sprite.flipY": true
+          "sprite.orderInLayer": 10
         },
         "go_132_mv4p076z": {
           "x": -1.3375447479787708,
@@ -11655,10 +11644,7 @@
           "y": -14.015092624963849,
           "scaleX": 0.03750938299930581,
           "scaleY": 0.03750938299930581,
-          "active": true,
-          "sprite.spriteId": "slice_14_mv4rbg9w",
-          "sprite.orderInLayer": 10,
-          "sprite.flipY": true
+          "sprite.orderInLayer": 10
         },
         "go_132_mv4p076z": {
           "x": -1.3375447479787708,
